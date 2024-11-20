@@ -1,11 +1,13 @@
+
+
 <h1 align="center">Hi 👋, I'm Arun Unnikrishnan</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer with a strong foundation in Python and a knack for creating scalable and efficient web applications. I thrive on building solutions that are not just functional but also user-friendly and impactful.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-t-u&label=Profile%20views&color=0e75b6&style=flat" alt="arun-t-u" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-t-u" alt="arun-t-u" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/arun-t-u/" target="blank"><img src="https://img.shields.io/twitter/follow/arun_t_u?logo=twitter&style=for-the-badge" alt="arun_t_u" /></a> </p>
 
 - 🔭 I’m currently working on [FiscalForce](https://github.com/FiscalForce)
 
