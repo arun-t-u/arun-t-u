@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Arun Unnikrishnan</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer with a strong foundation in Python and a knack for creating scalable and efficient web applications. I thrive on building solutions that are not just functional but also user-friendly and impactful.</h3>
 
-<img align="right" alt="Coding" width=400 src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-t-u&label=Profile%20views&color=0e75b6&style=flat" alt="arun-t-u" /> </p>
 
